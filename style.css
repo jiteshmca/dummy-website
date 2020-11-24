@@ -23,8 +23,9 @@
 }
 
 .contact .content{
-	max-width: 800px;
+	max-width: 1000px;
 	text-align: center;
+	margin-top: -40px;
 }
 
 .contact .content h2{
@@ -43,7 +44,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-top: 40px;
+	margin-top: 30px;
 }
 
 .container .contactinfo{
